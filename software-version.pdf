@@ -1,0 +1,67 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (Apache FOP Version 2\0564)
+/Title (Public Whitepaper)
+/Author (Jane Doe)
+/Creator (Acme Writer)
+/CreationDate (D\07220240101120000\05302\04700\047)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Metadata 5 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+>>
+/MediaBox [ 0.0 0.0 72 72 ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 310
+>>
+stream
+<?xpacket begin="" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+   xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+   xmp:CreatorTool="Acme Writer"/>
+ </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="w"?>
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000195 00000 n 
+0000000254 00000 n 
+0000000319 00000 n 
+0000000411 00000 n 
+trailer
+<<
+/Size 6
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+772
+%%EOF

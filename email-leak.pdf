@@ -1,0 +1,72 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (Q3 Security Review)
+/Author (security\056lead\100acme\055corp\056test)
+/Creator (security\056lead\100acme\055corp\056test)
+/CreationDate (D\07220240101120000\05302\04700\047)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Metadata 5 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+>>
+/MediaBox [ 0.0 0.0 72 72 ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 398
+>>
+stream
+<?xpacket begin="" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <dc:creator>
+    <rdf:Seq>
+     <rdf:li>Security Lead</rdf:li>
+    </rdf:Seq>
+   </dc:creator>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="w"?>
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000237 00000 n 
+0000000296 00000 n 
+0000000361 00000 n 
+0000000453 00000 n 
+trailer
+<<
+/Size 6
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+902
+%%EOF
